@@ -1,42 +1,40 @@
-# Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+##EXP 1.2: 
+Design and draft the given 2D sketches in the modelling software. 
+##AIM: 
+To sketch the given dimension using fusion 360 software. 
+##REQUIREMENT: 
+1. Autodesk fusion 360 
+2. Windows 10 
+3. 16 gb of RAM (integrated graphics with more than 1 GB or more) 
+4. 2.5 mbps or faster download/ 500kbps or faster upload 
+##PROCEDURE: 
+1. Open an new file and then select sketch icon
+2.  2. Select the chosen plane for sketching 
+3. Use the Line, Circle, Arc, Rectangle, Polygon, and other sketching tools available in Autodesk Fusion 360 to create the required 2D geometry. Draw each component carefully according 
+to the shape and proportions shown in the given sketch.
+<img width="575" height="387" alt="edm1 2-1" src="https://github.com/user-attachments/assets/b7824607-8e22-495e-adf3-72a220af789c" />
 
-## AIM
- To sketch the given drawing with dimensions using fusion 360 tool.
- 
-## REQUIREMENTS
- 1. Autodesk fusion 360
- 2. Windows 10
- 3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
- 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
- 
- ## PROCEDURE
- 1.	Open new file and then select sketch icon.
- 2.	Select the plane for sketching. 
- 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png)
- 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png)
- 
- 5.	Use inspect feature to measure the dimensions of sketch.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232845-1608e574-732c-44b2-9921-39e920b70e2e.png)
- 
- 6.	After finishing the sketch use finish sketch option to finalize the sketch.
- ![image](https://user-images.githubusercontent.com/113594316/198232907-8275f39c-9031-4cf4-b0c4-8eb568e477ab.png)
- 7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
- 
- ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
- 
- 
- ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+4. Use sketch modifying features such as Trim, Cut, Mirror, Move, Extend, Offset, and Fillet to edit, modify, and refine the sketch according to the given drawing. Remove unwanted portions, adjust the position and size of entities, create symmetrical features using Mirror, and ensure that the final sketch is accurate and properly dimensioned. 
+<img width="307" height="377" alt="edm1 2-2" src="https://github.com/user-attachments/assets/2951d86f-4f97-41b3-89d7-b8cbb33d883a" />
 
- ## OUTPUT
- 
- 
- ## RESULT
- Thus the given sketch is drawn and drafted using fusion 360 tool.
+5. Use inspect feature to measure the dimensions of the sketch.
+<img width="481" height="447" alt="edm1 2-3" src="https://github.com/user-attachments/assets/9dbe04e6-f972-4abd-b727-9b08235d0ca7" />
+
+6. After finishing the sketch use the finish sketch option to finalize the sketch. 
+<img width="312" height="172" alt="edm1 2-4" src="https://github.com/user-attachments/assets/ed1e512e-f768-4922-ad47-d69c9ccf3bba" />
+
+7. After finishing the sketch, switch to drawing mode to plot the sketch in ISO standard.
+<img width="405" height="267" alt="edm1 2-5" src="https://github.com/user-attachments/assets/818e4a83-3670-486d-8e86-b3b6b216f506" />
+<img width="632" height="762" alt="edm1 2-6" src="https://github.com/user-attachments/assets/7183e646-4860-4ab3-98ba-e38070a732c6" />
+
+##SKETCH:
+<img width="497" height="422" alt="edm1 2-7" src="https://github.com/user-attachments/assets/60a84989-bc63-40ce-838e-c01d885960e3" />
+
+##OUTPUT:
+<img width="777" height="672" alt="edm1 2-8" src="https://github.com/user-attachments/assets/351a03db-e3a9-4cd8-b637-616e487ee829" />
+
+
+<img width="876" height="617" alt="Screenshot 2026-11-15 213355" src="https://github.com/user-attachments/assets/618402b1-427d-4d13-812d-b19d2a2dfea2" />
+
+##RESULT: 
+Thus the result is obtained using fusion 360 software
