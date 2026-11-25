@@ -1,13 +1,20 @@
 ##EXP 1.2: 
+
 Design and draft the given 2D sketches in the modelling software. 
+
 ##AIM: 
-To sketch the given dimension using fusion 360 software. 
+
+To sketch the given dimension using fusion 360 software.
+
 ##REQUIREMENT: 
+
 1. Autodesk fusion 360 
 2. Windows 10 
 3. 16 gb of RAM (integrated graphics with more than 1 GB or more) 
-4. 2.5 mbps or faster download/ 500kbps or faster upload 
+4. 2.5 mbps or faster download/ 500kbps or faster upload.
+ 
 ##PROCEDURE: 
+
 1. Open an new file and then select sketch icon
 2.  2. Select the chosen plane for sketching 
 3. Use the Line, Circle, Arc, Rectangle, Polygon, and other sketching tools available in Autodesk Fusion 360 to create the required 2D geometry. Draw each component carefully according 
@@ -34,7 +41,8 @@ to the shape and proportions shown in the given sketch.
 <img width="777" height="672" alt="edm1 2-8" src="https://github.com/user-attachments/assets/351a03db-e3a9-4cd8-b637-616e487ee829" />
 
 
-<img width="876" height="617" alt="Screenshot 2026-11-15 213355" src="https://github.com/user-attachments/assets/618402b1-427d-4d13-812d-b19d2a2dfea2" />
+<img width="999" height="705" alt="Screenshot 2026-10-12 110514" src="https://github.com/user-attachments/assets/f148f290-86ce-48ca-8c83-a6b402179110" />
+
 
 ##RESULT: 
 Thus the result is obtained using fusion 360 software
