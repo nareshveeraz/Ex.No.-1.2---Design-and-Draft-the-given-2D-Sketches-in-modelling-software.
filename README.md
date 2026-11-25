@@ -1,19 +1,19 @@
-##EXP 1.2: 
+EXPERIMENT 1.2 
 
 Design and draft the given 2D sketches in the modelling software. 
 
-##AIM: 
+#AIM: 
 
 To sketch the given dimension using fusion 360 software.
 
-##REQUIREMENT: 
+#REQUIREMENT: 
 
 1. Autodesk fusion 360 
 2. Windows 10 
 3. 16 gb of RAM (integrated graphics with more than 1 GB or more) 
 4. 2.5 mbps or faster download/ 500kbps or faster upload.
  
-##PROCEDURE: 
+#PROCEDURE: 
 
 1. Open an new file and then select sketch icon
 2.  2. Select the chosen plane for sketching 
@@ -34,16 +34,16 @@ to the shape and proportions shown in the given sketch.
 <img width="405" height="267" alt="edm1 2-5" src="https://github.com/user-attachments/assets/818e4a83-3670-486d-8e86-b3b6b216f506" />
 <img width="632" height="762" alt="edm1 2-6" src="https://github.com/user-attachments/assets/7183e646-4860-4ab3-98ba-e38070a732c6" />
 
-##SKETCH:
+#SKETCH:
 <img width="497" height="422" alt="edm1 2-7" src="https://github.com/user-attachments/assets/60a84989-bc63-40ce-838e-c01d885960e3" />
 
-##OUTPUT:
+#OUTPUT:
 <img width="777" height="672" alt="edm1 2-8" src="https://github.com/user-attachments/assets/351a03db-e3a9-4cd8-b637-616e487ee829" />
 
 
 <img width="999" height="705" alt="Screenshot 2026-10-12 110514" src="https://github.com/user-attachments/assets/f148f290-86ce-48ca-8c83-a6b402179110" />
 
 
-##RESULT: 
+#RESULT: 
 
 Thus the result is obtained using fusion 360 software
